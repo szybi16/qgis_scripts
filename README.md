@@ -1,1 +1,3 @@
-# qgis_scripts
+# QGIS Sripts
+
+Random script(s) for the Python console of QGIS
